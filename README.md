@@ -6,6 +6,7 @@ This project was generated with Angular CLI version 8.3.12.
 
 # Development server
 This is demo for Azure text translator service with angular 8. Please get a subscription key from azure https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows and replace in TranslatorService below line. .set('Ocp-Apim-Subscription-Key', '<AZURE_API_KEY>')
+
 This is demo for Azure text translator service with angular 8. Please get a subscription key from azure https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=multiservice%2Cwindows and replace in TranslatorService below line. .set('Ocp-Apim-Subscription-Key', '<AZURE_API_KEY>')
 
 # Demo
